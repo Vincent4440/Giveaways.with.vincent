@@ -1,0 +1,30 @@
+{
+  "name": "giveaways-bot",
+  "version": "1.0.0",
+  "description": "Giveways Bot using the discord-giveaways package",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vincent4440/Giveaways.with.vincent"
+  },
+  "keywords": [
+    "giveaways",
+    "bot",
+    "discord-giveaways",
+    "example"
+  ],
+  "author": "Vincent4440",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vincent4440/Giveaways.with.vincent/issues"
+  },
+  "homepage": "https://github.com/Vincent4440/Giveaways.with.vincent/blob/main/README.md",
+  "dependencies": {
+    "discord-giveaways": "^4.5.0",
+    "discord.js": "^12.5.1",
+    "ms": "^2.1.2"
+  }
+}
